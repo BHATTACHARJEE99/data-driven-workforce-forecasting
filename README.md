@@ -1,3 +1,5 @@
+Global Talent & U.S. IT Workforce Analytics Dashboard
+
 # data-driven-workforce-forecasting
 End-to-end workforce analytics platform using MySQL & Power BI to analyze U.S. IT labor demand, hiring gaps, and visa impact with predictive scenario modeling.
 
@@ -13,3 +15,5 @@ Quantify economic impact of unfilled roles
 Forecast future workforce trends
 Simulate visa-based “what-if” scenarios
 The goal is to transform raw government data into actionable, decision-support insights.
+
+For detailed overview : https://github.com/Aidan-Jaramillo/us-it-workforce-analytics
